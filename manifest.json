@@ -1,0 +1,6 @@
+{
+  "name": "No More Shorts",
+  "description": "'No More Shorts' is a browser extension that removes YouTube Shorts from a creator's upload section.",
+  "version": "1.0.0",
+  "manifest_version": 3
+}
